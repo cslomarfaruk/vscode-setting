@@ -91,5 +91,7 @@
   "editor.hideCursorInOverviewRuler": true,
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "files.autoSave": "afterDelay",
+  "window.menuBarVisibility": "compact"
 }
